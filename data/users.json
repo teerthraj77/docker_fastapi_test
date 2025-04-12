@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "first_name": "Raj",
+      "last_name": "B",
+      "age": 22
+    },
+    {
+      "first_name": "Rahul",
+      "last_name": "c",
+      "age": 23
+    },
+    {
+      "first_name": "Shubham",
+      "last_name": "d",
+      "age": 23
+    }
+  ]
+}
